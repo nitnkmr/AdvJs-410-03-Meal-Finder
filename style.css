@@ -1,0 +1,44 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+.header{
+    background-color: blue;
+    color: aliceblue;
+    height: 50px;
+    text-align: center;
+}
+.sub{
+    height: 50px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    
+}
+.inputs{
+    height: 70px;
+    width: 100vw;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    
+}
+input,button{
+    height: 50%;
+    width: 260px ;
+}
+button{
+    height: 50%;
+    width: 100px ;
+    border: none;
+    color: aliceblue;
+    background-color: blue;
+    font-size: 15px;
+}
+#data{
+    margin-top: 4vh;
+    text-align: center;
+    width: 100vw;
+    font-size: 25px;
+    text-transform: capitalize ;
+    font-family:sans-serif;
+}
